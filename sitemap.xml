@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://shahriar1.github.io/hello-world/</loc>
+    
+    <lastmod>2016-02-13T21:13:13.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://shahriar1.github.io/about/index.html</loc>
     
     <lastmod>2016-02-13T18:53:18.000Z</lastmod>
@@ -12,20 +19,6 @@
     <loc>http://shahriar1.github.io/tags/index.html</loc>
     
     <lastmod>2016-02-10T16:04:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://shahriar1.github.io/javascript/foo/</loc>
-    
-    <lastmod>2016-02-10T09:01:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://shahriar1.github.io/hello-world/</loc>
-    
-    <lastmod>2016-02-09T23:21:50.000Z</lastmod>
     
   </url>
   
